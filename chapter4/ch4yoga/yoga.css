@@ -1,0 +1,29 @@
+
+body {
+    background-color: #E8EEEA;
+    color: #5624A8;
+}
+header {
+    background-color: #19A888;
+    color: #CDF2C9;
+    /*color: #fff;*/
+}
+nav {
+    background-color: #CCF5C3;
+}
+h1 {
+    margin-bottom: 0;
+}
+h2 {
+    /*color: #3FA877;*/
+    color: #00A8A1;
+}
+dt {
+    /*color: #0DA8A7;*/
+    /*color: #00A883;*/
+    color: #4339A8;
+}
+.studio{
+    /*color: #900CF5;*/
+    color: #5C1CF5;
+}
