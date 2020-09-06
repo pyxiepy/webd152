@@ -1,10 +1,17 @@
 
 body {
-    background-color: #fff;
-    color: #5d7784;
+    background-color: #e1dbb7;
+    /*color: #5d7784;*/
+    /*color: #27394d;*/
+    /*color: #b1845a; med brn*/
+    /*color: #022b10*/
+    /*color: #494b35; dark olive*/
+    color: #654725;
+    /*color: #042810;*/
 }
 header {
     background-color: #6489d0;
+    /*background-color: #27394d;*/
     color: #fff;
 }
 nav {
@@ -15,10 +22,12 @@ h1 {
 }
 h2 {
     /*color: #5c6254;*/
-    color: #5c6254;
+    /*color: #617eb8;*/
+    color: #5d7784;
+    /*color: #042810;*/
 }
 dt {
-    color: #003;
+    color: #27394d;
 }
 .resort {
     color: #5b81d2;
