@@ -58,8 +58,8 @@ h1 {
 }
 h2 {
     /*color: #5c6254;*/
-    color: #0d7d8f
-    text-shadow: 0 1px 1px rgb(158, 171, 176);
+    color: #0d7d8f;
+    text-shadow: 1px 1px 1px #aec1c1;
     /*color: #5d7784;*/
     /*color: #042810;*/
 }
