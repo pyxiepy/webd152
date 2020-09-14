@@ -1,0 +1,98 @@
+body {
+    background-color: #e9e4c6;
+    background-image: linear-gradient(to bottom, #e3fafa, #e9e4c6);
+    background-repeat: no-repeat;
+    /*color: #5d7784;*/
+    /*color: #27394d;*/
+    /*color: #b1845a; med brn*/
+    /*color: #022b10*/
+    /*color: #494b35; dark olive*/
+    color: #4e3519;
+    /*color: #042810;*/
+    /*ff:a*/
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#wrapper {
+    background-color: #fff;
+    box-shadow: 3px 3px 3px #5b7275;
+    margin: auto;
+    min-width: 960px;
+    max-width: 2048px;
+    width: 80%;
+}
+header {
+    background-color: #003;
+    /*background-color: #27394d;*/
+    /*bgi*/
+    background-image: url(images/sunset.jpg);
+    /*bgp*/
+    background-position: right;
+    /*bgr:n*/
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 60px;
+    padding-top: 15px;
+    text-align: center;
+}
+nav {
+    /*background-color: #beaf9c;*/
+    font-weight: bold;
+    list-style-position: inside;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    /*tt:n*/
+    text-transform: none;
+}
+main {
+    /*p1-20-20*/
+    padding: 1px 20px 20px;
+}
+h1, h2, h3, footer {
+    font-family: Georgia, "Times New Roman", serif;
+}
+h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+h2 {
+    /*color: #5c6254;*/
+    color: #0d7d8f
+    text-shadow: 0 1px 1px rgb(158, 171, 176);
+    /*color: #5d7784;*/
+    /*color: #042810;*/
+}
+dt {
+    color: #27394d;
+}
+footer {
+    font-size: 75%;
+    text-align: center;
+    font-style: italic;
+    padding: 20px;
+}
+.resort {
+    color: #5b81d2;
+}
+#contact {
+    font-size: 90%;
+}
+#homehero {
+    height: 300px;
+    background-image: url(images/coast2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#yurthero {
+    height: 300px;
+    background-image: url(images/yurt.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#trailhero
+    height: 300px;
+    background-image: url(images/trail.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
