@@ -26,21 +26,13 @@ body {
 }
 header {
     background-color: #003;
-    /*background-color: #27394d;*/
-    /*bgi*/
     background-image: url(images/sunset.jpg);
-    /*bgp*/
     background-position: right;
-    /*bgr:n*/
     background-repeat: no-repeat;
+    background-size: auto 120px;
     color: #fff;
-    /*h120*/
     height: 120px;
-    /*pt30*/
     padding-top: 30px;
-    /*pl3em*/
-    padding-left: 3em;
-    /*ta:c*/
     text-align: center;
 }
 header a {
